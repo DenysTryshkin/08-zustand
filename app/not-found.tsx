@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   title: "Page Not Found | NoteHub",
   description: "The requested NoteHub page does not exist.",
   alternates: {
-    canonical: "https://08-zustand.vercel.app/404",
+    canonical: "https://08-zustand-denys8.vercel.app/404",
   },
   openGraph: {
     title: "Page Not Found | NoteHub",
     description: "The requested NoteHub page does not exist.",
-    url: "https://08-zustand.vercel.app/404",
+    url: "https://08-zustand-denys8.vercel.app/404",
     images: [
       {
         url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: "Create Note | NoteHub",
   description: "Create a new note in NoteHub.",
   alternates: {
-    canonical: "https://08-zustand.vercel.app/notes/action/create",
+    canonical: "https://08-zustand-denys8.vercel.app/notes/action/create",
   },
   openGraph: {
     title: "Create Note | NoteHub",
     description: "Create a new note in NoteHub.",
-    url: "https://08-zustand.vercel.app/notes/action/create",
+    url: "https://08-zustand-denys8.vercel.app/notes/action/create",
     images: [
       {
         url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
